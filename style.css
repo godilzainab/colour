@@ -1,0 +1,15 @@
+#Center
+{
+    /* text-align: center; */
+}
+button
+{
+    height: 50px;
+}
+#rectangle{
+    width: 500px;
+    height: 500px;
+    border: 7px solid ;
+margin: 10px;
+    
+  }
